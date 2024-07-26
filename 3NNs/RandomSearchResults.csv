@@ -1,0 +1,17 @@
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+0,{'architecture': [44, 19], 'learning_rate': 0.04283659990557157, 'num_epochs': 135, 'batch_size': 64, 'reg_strength': 0.00028566414114434104},0.982118133990119,0.9885013917833773
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+0,{'architecture': [44, 31, 38, 50], 'learning_rate': 0.001327052095639676, 'num_epochs': 277, 'batch_size': 128, 'reg_strength': 0.00044583818025898644},0.9815400459555698,0.9885013917833773
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+0,{'architecture': [44, 39, 37], 'learning_rate': 0.0007432657089243705, 'num_epochs': 167, 'batch_size': 64, 'reg_strength': 0.0003241716258130226},0.9819578238628911,0.9885013917833773
+iteration,architecture,learning_rate,num_epochs,batch_size,reg_strength,accuracy,l1_accuracy
+0,{'architecture': [44, 56, 61], 'learning_rate': 0.09674427506885003, 'num_epochs': 334, 'batch_size': 256, 'reg_strength': 1.2959803389932224e-05},0.9819626817455344,0.9885013917833773
